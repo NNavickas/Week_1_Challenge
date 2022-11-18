@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-/* Need to figure out alt text here*/
+/* alt text added via the title in the HTML file */
 .hero {
     height: 800px;
     width: 100%;
@@ -76,7 +76,7 @@ p {
     margin-left: 20px;
 }
 
-/* Styling for the benefits Horiseon offer */
+/* Styling for the 3 benefits Horiseon guidance offers */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -88,20 +88,20 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-1 {
+.benefits-css {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /* consolidated the formatting */
-.benefit-1 h3 {
+.benefits-css h3 {
     margin-top: 10px;
     margin-bottom: 10px;
     text-align: center;
     color: #ffffff;
 }
 
-.benefit-1 img {
+.benefits-css img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
